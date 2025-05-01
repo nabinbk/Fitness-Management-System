@@ -1,4 +1,4 @@
-How to run the Profitness gym Project
+How to run the Grande Fitness Project
 
 1. Download the zip file
 
@@ -12,12 +12,11 @@ How to run the Profitness gym Project
 
 6. Import gym_db.sql file (given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/project2 (frontend)
 
 Credential for admin panel :
 email: admin@gmail.com
 Password: 123456
 
 Credential for gym member panel :
-email: user@gmail.com
-Password: user
+email: nabinbk282@gmail.com
+Password: hello
