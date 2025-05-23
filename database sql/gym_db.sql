@@ -78,6 +78,7 @@ CREATE TABLE `submitbookingt_tb` (
   `member_name` varchar(90) DEFAULT NULL,
   `member_email` varchar(90) DEFAULT NULL,
   `booking_type` varchar(90) DEFAULT NULL,
+  `trainer` varchar(90) DEFAULT NULL,
   `member_mobile` varchar(90) DEFAULT NULL,
   `member_add1` varchar(90) DEFAULT NULL,
   `member_date` date DEFAULT NULL
@@ -87,7 +88,7 @@ CREATE TABLE `submitbookingt_tb` (
 -- Dumping data for table `submitbookingt_tb`
 --
 
-INSERT INTO `submitbookingt_tb` (`Booking_id`, `member_name`, `member_email`, `booking_type`, `member_mobile`, `member_add1`, `member_date`) VALUES
+INSERT INTO `submitbookingt_tb` (`Booking_id`, `member_name`, `member_email`, `booking_type`,`trainer`, `member_mobile`, `member_add1`, `member_date`) VALUES
 (1, 'Emmanel matewere', 'emzo@gmailcom', 'limbe', '0989765646352', 'yoga', '2021-06-25'),
 (2, 'ken banda', 'ken@gmail.com', 'limbe', '0994167723', 'yoga', '2021-06-10'),
 (3, 'user', 'user@gmail.com', 'limbe', '0994167723', 'yoga', '2021-06-10'),

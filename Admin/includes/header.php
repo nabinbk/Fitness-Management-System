@@ -59,7 +59,7 @@
        </a>
       </li>
       <li class="nav-item">
-       <a class="nav-link <?php if(PAGE == 'viewschedule') { echo 'active'; } ?> " href="view schedule.php">
+       <a class="nav-link <?php if(PAGE == 'viewschedule') { echo 'active'; } ?> " href="view_schedule.php">
         <i class="far fa-calendar"></i>
         View Schedules
        </a>

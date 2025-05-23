@@ -52,8 +52,6 @@ include('../dbConnection.php');
 </div>
 </div>   
 </div>
-
-<!-- profile form end here -->
 </div>
 <?php
 include('includes/footer.php'); 

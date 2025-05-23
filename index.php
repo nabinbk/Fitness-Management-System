@@ -191,7 +191,7 @@
               <img src="images/avtar1.jpeg" class="img-fluid" style="border-radius: 100px;">
               <h4 class="card-title">Aashish Thapa</h4>
               <p class="card-text">Trained martial arts expect with years of experice come join the martial arts class
-                and start your jonuery.</p>
+                and start your jonuery.</p> <a class="btn btn-primary text-white font-weight-bolder float-center" href="/Gym management system/trainerprofile/aashishthapa.php">View</a>
             </div>
           </div>
         </div> <!-- End Customer 1st Column-->
@@ -202,7 +202,7 @@
             <div class="card-body text-center">
               <img src="images/avtar2.jpeg" class="img-fluid" style="border-radius: 100px;">
               <h4 class="card-title">Anupama</h4>
-              <p class="card-text"> Cardio exercises help streghthen your body and mind, i will take you through the cardio gym class.</p>
+              <p class="card-text"> Cardio exercises help streghthen your body and mind, i will take you through the cardio gym class.</p><a class="btn btn-primary text-white font-weight-bolder float-center" href="/Gym management system/trainerprofile/anupama.php">View</a>
             </div>
           </div>
         </div> <!-- End Customer 2nd Column-->
@@ -213,7 +213,7 @@
             <div class="card-body text-center">
               <img src="images/avtar3.jpeg" class="img-fluid" style="border-radius: 100px;">
               <h4 class="card-title">Bikash Shrestha</h4>
-              <p class="card-text">I have been at profitness for 7 years, im a Professional trainer whos major focus is weight lifting</p>
+              <p class="card-text">I have been at profitness for 7 years, im a Professional trainer whos major focus is weight lifting</p><a class="btn btn-primary text-white font-weight-bolder float-center" href="/Gym management system/trainerprofile/bikashshrestha.php">View</a>
             </div>
           </div>
         </div> <!-- End Customer 3rd Column-->
@@ -224,7 +224,7 @@
             <div class="card-body text-center">
               <img src="images/avtar4.jpeg" class="img-fluid" style="border-radius: 100px;">
               <h4 class="card-title">Santoshi</h4>
-              <p class="card-text">Im a trained expect in yoga exercises, i will help you improve your body through yoga .</p>
+              <p class="card-text">Im a trained expect in yoga exercises, i will help you improve your body through yoga .</p><a class="btn btn-primary text-white font-weight-bolder float-center" href="/Gym management system/trainerprofile/santoshi.php">View</a>
             </div>
           </div>
         </div> <!-- End Customer 4th Column-->
